@@ -1,4 +1,4 @@
-### Hi there, I'm Steve - aka [momelod][website] 👋
+### Hi there, I'm Steve - aka [momelod] 👋
 
 ## I'm a DevOps Engeneer!
 - 🔭 I’m currently working on a AWS Certifications
