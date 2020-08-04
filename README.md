@@ -17,12 +17,12 @@
 ### Languages and Tools:
 
 <img align="left" alt="Terraform" width="26px" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" />
-<img align="left" alt="Ansible" width="26px" src="https://commons.wikimedia.org/wiki/File:Ansible_logo.svg" />
-<img align="left" alt="Bash" width="26px" src="https://commons.wikimedia.org/wiki/File:Bash_Logo_Colored.svg" />
-<img align="left" alt="Python" width="26px" src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" />
-<img align="left" alt="Linux" width="26px" src="https://commons.wikimedia.org/wiki/File:Linux_logo.jpg" />
+<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/24x24.svg" />
+<img align="left" alt="Python" width="26px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />
+<img align="left" alt="Linux" width="26px" src="https://isc.tamu.edu/~lewing/linux/sit3-shine.7.gif" />
 <img align="left" alt="Elastic Stack" width="26px" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt5a54f1ac0a58f1a1/5ea8c80f4d8c1963bdceefef/brand-elastic-glyph-220x130.svg" />
-<img align="left" alt="Home Assistant" width="26px" src="https://commons.wikimedia.org/wiki/File:Home_Assistant_Logo.svg" />
+<img align="left" alt="Home Assistant" width="26px" src="https://raw.githubusercontent.com/home-assistant/assets/master/logo-pretty.svg" />
 <img align="left" alt="Rundeck" width="26px" src="https://symbols.getvecta.com/stencil_94/121_rundeck-icon.ef662fabd1.svg" />
 <img align="left" alt="Buildkite" width="26px" src="https://buildkite.com/_next/static/assets/assets/images/brand-assets/buildkite-mark-on-light-a779d845.svg" />
 <img align="left" alt="AWS" width="26px" src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" />
