@@ -1,11 +1,10 @@
 ### Hi there, I'm Steve - aka [momelod][website] 👋
 
 ## I'm a DevOps Engeneer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a AWS Certifications
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love photography
+- ⚡ Fun fact: I love photography and pimping my shell
 
 ### Connect with me:
 
