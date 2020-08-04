@@ -41,4 +41,4 @@
 <img align="left" alt="momelod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=momelod&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/momelod
-[linkedin]: https://linkedin.com/in/momelod
+[linkedin]: https://www.linkedin.com/in/steve-melo-598b1310/
