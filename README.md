@@ -24,7 +24,7 @@
 <img align="left" alt="Home Assistant" width="26px" src="https://raw.githubusercontent.com/home-assistant/assets/master/logo-pretty.svg" />
 <img align="left" alt="Rundeck" width="26px" src="https://symbols.getvecta.com/stencil_94/121_rundeck-icon.ef662fabd1.svg" />
 <img align="left" alt="Buildkite" width="26px" src="https://buildkite.com/_next/static/assets/assets/images/brand-assets/buildkite-mark-on-light-a779d845.svg" />
-<img align="left" alt="AWS" width="26px" src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" />
+<img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="MySQL" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
