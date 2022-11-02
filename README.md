@@ -1,7 +1,7 @@
-<h1>
+<div id="header" align="center">
   Hi there, I'm Steve - aka [momelod]
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</div>
 
 ## I'm a DevOps Engineer!
 - 🌱 I’m currently learning everything 🤣
