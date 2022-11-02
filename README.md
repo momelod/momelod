@@ -26,16 +26,17 @@
 
 ### Languages and Tools:
 
-<img alt="Terraform" width="26px" src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge" />
-<img alt="Ansible" width="26px" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge" />
-<img alt="Bash" width="26px" src="https://img.shields.io/badge/Bash-blue?style=for-the-badge" />
-<img alt="Python" width="56px" src="https://img.shields.io/badge/Python-FFD847?style=for-the-badge" />
-<img alt="Linux" width="26px" src="https://img.shields.io/badge/Linux-orange?style=for-the-badge" />
-<img alt="Home Assistant" width="26px" src="https://img.shields.io/badge/HomeAssistant-038FC7?style=for-the-badge" />
-<img alt="Rundeck" width="26px" src="https://img.shields.io/badge/Rundeck-EE625E?style=for-the-badge" />
-<img alt="AWS" width="26px" src="https://img.shields.io/badge/AWS-EC7211?style=for-the-badge" />
-<img alt="Git" width="26px" src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge" />
-
+<div id="badges">
+    <img alt="Terraform" width="26px" src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge" />
+    <img alt="Ansible" width="26px" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge" />
+    <img alt="Bash" width="26px" src="https://img.shields.io/badge/Bash-blue?style=for-the-badge" />
+    <img alt="Python" width="56px" src="https://img.shields.io/badge/Python-FFD847?style=for-the-badge" />
+    <img alt="Linux" width="26px" src="https://img.shields.io/badge/Linux-orange?style=for-the-badge" />
+    <img alt="Home Assistant" width="26px" src="https://img.shields.io/badge/HomeAssistant-038FC7?style=for-the-badge" />
+    <img alt="Rundeck" width="26px" src="https://img.shields.io/badge/Rundeck-EE625E?style=for-the-badge" />
+    <img alt="AWS" width="26px" src="https://img.shields.io/badge/AWS-EC7211?style=for-the-badge" />
+    <img alt="Git" width="26px" src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge" />
+</div>
 
 <br />
 <br />
