@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=momelod&style=flat-square&color=blue" alt=""/>
 
   ### About Me
-  <ul>
+  <ul style="list-style: none;">
     <li> 🌱 I’m currently learning everything 🤣</li>
     <li> 🥅 2023 Goals: Contribute more to Open Source projects</li>
     <li> ⚡ Fun fact: I love photography, home automation and pimping my shell</li>
