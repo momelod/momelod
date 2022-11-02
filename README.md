@@ -18,7 +18,7 @@
 
 ---
 
-<div id="about" align="center">
+<div id="about" align="left">
   <h2>About Me</h2>
   <ul style="list-style: none;">
     <li> 🌱 I’m currently learning everything 🤣</li>
@@ -29,7 +29,7 @@
 
 --- 
 
-<div id="certs" align="center">
+<div id="certs" align="left">
   <h2>My Certifications</h2>
 
   <!--START_SECTION:badges-->
