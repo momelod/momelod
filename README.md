@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <h1>Hi there, I'm Steve - aka [momelod]</h1>
 </div>
+
 ---
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/steve-melo-598b1310/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,8 +33,7 @@
   <h2>My Certifications</h2>
   <!--START_SECTION:badges-->
 
-  [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/e1249225-0517-4875-b8ee-d8b5ea6fbf33 "HashiCorp Certified: Terraform Associate (002)")
-  
+  [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/e1249225-0517-4875-b8ee-d8b5ea6fbf33 "HashiCorp Certified: Terraform Associate (002)")  
   [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/56445807-2c4a-45b9-85f7-985ae76ffa16 "AWS Certified Solutions Architect – Associate")
   
   <!--END_SECTION:badges-->
