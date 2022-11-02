@@ -1,9 +1,12 @@
 <div id="header" align="center">
   Hi there, I'm Steve - aka [momelod]
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    - 🌱 I’m currently learning everything 🤣
-    - 🥅 2023 Goals: Contribute more to Open Source projects
-    - ⚡ Fun fact: I love photography, home automation and pimping my shell
+  <br />
+  <ul>
+    <li>- 🌱 I’m currently learning everything 🤣</li>
+    <li>- 🥅 2023 Goals: Contribute more to Open Source projects</li>
+    <li>- ⚡ Fun fact: I love photography, home automation and pimping my shell</li>
+  </ul>
 </div>
 
 <div id="badges" align="center">
