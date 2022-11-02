@@ -13,7 +13,9 @@
   <br />
   <img src="https://komarev.com/ghpvc/?username=momelod&style=flat-square&color=blue" alt=""/>
 </div>
+
 ---
+
 <div id="about" align="center">
   <h2>About Me</h2>
   <ul style="list-style: none;">
@@ -22,7 +24,9 @@
     <li> ⚡ Fun fact: I love photography, home automation and pimping my shell</li>
   </ul>
 </div>
+
 --- 
+
 <div id="certs" align="center">
   <h2>My Certifications</h2>
   <!--START_SECTION:badges-->
@@ -33,7 +37,9 @@
   
   <!--END_SECTION:badges-->
 </div>
+
 ---
+
 <div id="badges" align="center">
   <h2>Languages and Tools</h2>
       <img alt="Terraform" src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge" />
@@ -46,5 +52,7 @@
       <img alt="AWS" src="https://img.shields.io/badge/AWS-EC7211?style=for-the-badge" />
       <img alt="Git" src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge" />
 </div>
+
 ---
+
 ![momelod's GitHub stats](https://github-readme-stats.vercel.app/api?username=momelod&show_icons=true&theme=transparent)
