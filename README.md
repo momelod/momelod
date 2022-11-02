@@ -5,7 +5,7 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love photography, home automation and pimping my shell
 
-## My Certifications
+### My Certifications
 
 <!--START_SECTION:badges-->
 [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/e1249225-0517-4875-b8ee-d8b5ea6fbf33 "HashiCorp Certified: Terraform Associate (002)")
