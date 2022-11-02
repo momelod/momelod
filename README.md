@@ -6,6 +6,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love photography, home automation and pimping my shell
 
+## Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e1249225-0517-4875-b8ee-d8b5ea6fbf33" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="56445807-2c4a-45b9-85f7-985ae76ffa16" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### Connect with me:
 
 [<img align="left" alt="momelod | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
