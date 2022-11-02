@@ -1,12 +1,7 @@
 <div id="header" align="center">
+
   Hi there, I'm Steve - aka [momelod]
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br />
-  <ul>
-    <li>- 🌱 I’m currently learning everything 🤣</li>
-    <li>- 🥅 2023 Goals: Contribute more to Open Source projects</li>
-    <li>- ⚡ Fun fact: I love photography, home automation and pimping my shell</li>
-  </ul>
 </div>
 
 <div id="badges" align="center">
@@ -22,16 +17,22 @@
 
   <img src="https://komarev.com/ghpvc/?username=momelod&style=flat-square&color=blue" alt=""/>
 
-  ### My Certifications
+  ### About Me
+  <ul>
+    <li> 🌱 I’m currently learning everything 🤣</li>
+    <li> 🥅 2023 Goals: Contribute more to Open Source projects</li>
+    <li> ⚡ Fun fact: I love photography, home automation and pimping my shell</li>
+  </ul>
+  <br />
   
+  ### My Certifications
   <!--START_SECTION:badges-->
   [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/e1249225-0517-4875-b8ee-d8b5ea6fbf33 "HashiCorp Certified: Terraform Associate (002)")
   [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/56445807-2c4a-45b9-85f7-985ae76ffa16 "AWS Certified Solutions Architect – Associate")
   <!--END_SECTION:badges-->
-  
   <br />
+
   ### Languages and Tools:
-  
   <div id="badges">
       <img alt="Terraform" src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge" />
       <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge" />
