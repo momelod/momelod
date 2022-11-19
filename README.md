@@ -37,7 +37,7 @@
 ---
 
 <h2>Languages and Tools</h2>
-<div id="tools" align="center"
+<div id="tools" align="center">
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge" />
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-blue?style=for-the-badge" />
